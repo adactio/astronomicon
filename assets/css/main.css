@@ -54,16 +54,15 @@ a {
     font-size: 400%; 
   }
 
-/*.player {
+.player {
   position: relative;
 }
 
-.player .a-play,
-.player .indicator {
+.player .a-play {
   position: absolute;
-  top: 0;
-  left: 50%;
-}*/
+  top: 1em;
+  margin-left: -1.5em;
+}
 
 .a-play {
   font-size: 200%;
@@ -81,7 +80,7 @@ a {
     }
 
 .indicator { 
-  margin: 0 auto 1em;
+  margin: 0 auto 2em;
   display: block;
 }
 
