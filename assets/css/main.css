@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+  padding: 5% 10%;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.randomiser button {
+  font-size: 300%;
+  border: 0;
+  padding: 0.5em 1em;
+  margin-bottom: 0.5em;
+  border-radius: 0.2em;
+  cursor: pointer;
+  opacity: .8;
+  font-weight: 900;
+}
+
+  .randomiser button:hover,
+  .randomiser button:focus {
+    opacity: 1;
+  }
+
+.message { font-size: 150%; }
+
+  .message .song,
+  .message .artist,
+  .message .tada { 
+    padding: 2.5% 0;
+    display: block; 
+  }
+
+  .message .song { font-size: 200%; }
+  .message .tada { font-size: 400%; }
+
+.trivia { font-size: 80%; }
