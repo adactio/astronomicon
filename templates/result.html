@@ -3,5 +3,20 @@
             On {{ date }}, {{ song.title|striptags }} by {{ song.artist|striptags }} was Earth's #1 song. Its magic has just reached {{ star.name }}.
           </p>  
     </div>
+
+    <div role="application" id="js-player">
+      <span class="title"></span>
+      <span class="artist"></span>
+      <figure id="data-artwork" data-src=""></figure>
+
+      <ul id="items-controls" class="items-inline-controls">
+          <li>
+              <a href="#" id="control-play">
+                  <span>Play</span>
+              </a>
+          </li>
+      </ul>
+    </div>
+    
     <script src="//www.rdio.com/api/api.js?client_id=OQTUq_j3HiidTGXMl6xkOw"></script>
     <script src="../assets/js/main.js"></script>

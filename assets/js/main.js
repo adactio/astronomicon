@@ -1,7 +1,7 @@
 R.ready(function() {
     var el = document.getElementById('result'),
         song = el.getAttribute('data-song');
-    console.log(song);
+
     R.request({
         method: 'search',
         content: {
