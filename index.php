@@ -46,13 +46,13 @@ if (isset($_GET['date'])):
 
         //Loop through the stars
         $_OUTPUT['star'] = array();
-        $_OUTPUT['starcount'] = 0;
+        $_OUTPUT['starcount'] = count($_DATA['stars']);
         foreach ($_DATA['stars'] as $loopstar):
             if (floatval($parsecs) > floatval($loopstar['distance'])):
                 $_OUTPUT['star'] = $loopstar;
                 break;
             endif;
-            $_OUTPUT['starcount']++;
+            $_OUTPUT['starcount']--;
         endforeach;
 
         if (empty($_OUTPUT['star'])):
