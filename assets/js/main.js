@@ -57,8 +57,7 @@ var E = {
 
         el.onclick = function(e) {
             R.player.play({source: src});
-            //el.className += ' is-hidden';
-            el.style.display = "none";
+            el.className += ' is-hidden-fancy';
             indicator.className += ' is-shown-fancy';
             indicator.className += ' is-playing';
             var removeclass = 'is-shown';

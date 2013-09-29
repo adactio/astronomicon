@@ -92,7 +92,7 @@ a {
 .is-hidden-fancy {
   opacity: 0;
   visibility: hidden;
-  transition: 3s linear opacity;
+  transition: .75s linear opacity, 3s linear visibility;
 }
 
 .is-shown {
