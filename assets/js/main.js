@@ -58,8 +58,6 @@ var E = {
             R.player.play({source: src});
             e.preventDefault();
         };
-
-             
     }
 }
 
