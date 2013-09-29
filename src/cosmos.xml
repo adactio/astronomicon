@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cosmos>
+	<star>
+		<id>N1 Cen C</id>
+		<name>Proxima Centauri</name>
+		<distance>1.301</distance>
+		<notes>Gl 559 AB same system; parallaxes NOT combined</notes>
+	</star>
+	<star>
+		<id>N1 Cen</id>
+		<name>Rigil Kentaurus</name>
+		<distance>1.338</distance>
+		<notes>Gl 551 same system; parallaxes NOT combined</notes>
+	</star>
+	<star>
+		<id>N1 Cen B</id>
+		<name>Rigil Kentaurus B</name>
+		<distance>1.338</distance>
+		<notes>Gl 551 same system; parallaxes NOT combined</notes>
+	</star>
+	<star>
+		<id>N1 Oph</id>
+		<name>Barnard's Star</name>
+		<distance>1.828</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Leo</id>
+		<name>Wolf 359</name>
+		<distance>2.386</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 UMa</id>
+		<name>Lalande 21185</name>
+		<distance>2.542</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 CMa</id>
+		<name>Sirius</name>
+		<distance>2.631</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 CMa B</id>
+		<name>Sirius B</name>
+		<distance>2.631</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Cet</id>
+		<name>Luyten 726-8 A</name>
+		<distance>2.676</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Cet B</id>
+		<name>Luyten 726-8 B</name>
+		<distance>2.676</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Sgr</id>
+		<name>Ross 154</name>
+		<distance>2.968</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 And</id>
+		<name>Ross 248</name>
+		<distance>3.165</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 PsA</id>
+		<name>Lacaille 9352</name>
+		<distance>3.293</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Vir</id>
+		<name>Ross 128</name>
+		<distance>3.348</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 CMi</id>
+		<name>Procyon</name>
+		<distance>3.496</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 CMi B</id>
+		<name>Procyon B</name>
+		<distance>3.496</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 CMi</id>
+		<name>Luyten's Star</name>
+		<distance>3.791</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Ari</id>
+		<name>Teegarden's Star</name>
+		<distance>3.837</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Pav</id>
+		<name>2MASS J18450541-6357475</name>
+		<distance>3.854</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Pav B</id>
+		<name>2MASS J18450541-6357475 B</name>
+		<distance>3.854</distance>
+		<notes>Brown dwarf</notes>
+	</star>
+	<star>
+		<id>N1 Pic</id>
+		<name>Kapteyn's Star</name>
+		<distance>3.917</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Mic</id>
+		<name>Lacaille 8760</name>
+		<distance>3.946</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Ant</id>
+		<name>2MASS J10481463-3956062</name>
+		<distance>4.037</distance>
+		<notes>Brown dwarf</notes>
+	</star>
+	<star>
+		<id>N2 Oph</id>
+		<name>Wolf 1061</name>
+		<distance>4.237</distance>
+		<notes>&quot;CNS91 &quot;&quot;SB&quot;&quot; not confirmed/refuted&quot;</notes>
+	</star>
+	<star>
+		<id>N1 Psc</id>
+		<name>van Maanen's Star</name>
+		<distance>4.313</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 Vir</id>
+		<name>Wolf 424</name>
+		<distance>4.388</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 UMa</id>
+		<name>Groombridge 1618</name>
+		<distance>4.859</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 Leo</id>
+		<name>Gam Leo C</name>
+		<distance>4.888</distance>
+		<notes>astrometric companion? in CNS69 unlikely</notes>
+	</star>
+	<star>
+		<id>N1 For</id>
+		<name>LP 944-20</name>
+		<distance>4.965</distance>
+		<notes>Brown Dwarf</notes>
+	</star>
+	<star>
+		<id>N2 Eri</id>
+		<name>2MASS J02550357-4700509</name>
+		<distance>4.966</distance>
+		<notes>Brown Dwarf</notes>
+	</star>
+	<star>
+		<id>N3 Eri</id>
+		<name>Keid</name>
+		<distance>5.025</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Aql</id>
+		<name>Altair</name>
+		<distance>5.129</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Boo</id>
+		<name>Wolf 498</name>
+		<distance>5.429</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Gem</id>
+		<name>Wolf 294</name>
+		<distance>5.569</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Lyr</id>
+		<name>2MASS J18353790+3259545</name>
+		<distance>5.666</distance>
+		<notes>Reid et al. 2003</notes>
+	</star>
+	<star>
+		<id>N2 Ori</id>
+		<name>Wolf 1453</name>
+		<distance>5.709</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Eri</id>
+		<name>2MASS J04151954-0935066</name>
+		<distance>5.736</distance>
+		<notes>Vrba et al. 2004</notes>
+	</star>
+	<star>
+		<id>N3 Dra</id>
+		<name>Alsafi</name>
+		<distance>5.761</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Cas</id>
+		<name>Achird</name>
+		<distance>5.939</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Leo</id>
+		<name>2MASS J09373487+2931409</name>
+		<distance>6.140</distance>
+		<notes>Vrba et al. 2004</notes>
+	</star>
+	<star>
+		<id>N5 Oph</id>
+		<name>Wolf 630</name>
+		<distance>6.450</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Oph D</id>
+		<name>Wolf 629</name>
+		<distance>6.450</distance>
+		<notes>&quot;CNS91 &quot;&quot;SB&quot;&quot; refuted in Maz01&quot;</notes>
+	</star>
+	<star>
+		<id>N2 Cas</id>
+		<name>Bradley 3077</name>
+		<distance>6.520</distance>
+		<notes>astrometric companion? in YPC</notes>
+	</star>
+	<star>
+		<id>N4 Leo</id>
+		<name>Ross 104</name>
+		<distance>6.660</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 Peg</id>
+		<name>Ross 775</name>
+		<distance>6.750</distance>
+		<notes>SB1 in Del99b</notes>
+	</star>
+	<star>
+		<id>N5 Cnc</id>
+		<name>Ross 619</name>
+		<distance>6.840</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Peg</id>
+		<name>Ross 671</name>
+		<distance>6.860</distance>
+		<notes>&quot;CNS91 &quot;&quot;SB&quot;&quot; refuted in Mar89 and Tok92&quot;</notes>
+	</star>
+	<star>
+		<id>N2 Sex</id>
+		<name>Ross 446</name>
+		<distance>7.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Psc</id>
+		<name>Wolf 25</name>
+		<distance>7.440</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Vir</id>
+		<name>Ross 490</name>
+		<distance>7.540</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 PsA</id>
+		<name>Fomalhaut</name>
+		<distance>7.660</distance>
+		<notes>same system as Gl 879</notes>
+	</star>
+	<star>
+		<id>N6 Oph</id>
+		<name>Wolf 718</name>
+		<distance>7.720</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 Lyr</id>
+		<name>Vega</name>
+		<distance>7.750</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 Ori</id>
+		<name>Tabit</name>
+		<distance>8.060</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Cas</id>
+		<name>Ross 318</name>
+		<distance>8.170</distance>
+		<notes>possible cpm with YPC 86.00</notes>
+	</star>
+	<star>
+		<id>N3 Lyr</id>
+		<name>17 Lyr C</name>
+		<distance>8.180</distance>
+		<notes>not part of the 17 Lyr system in Gic67</notes>
+	</star>
+	<star>
+		<id>N6 Vir</id>
+		<name>Wolf 437</name>
+		<distance>8.210</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Vir</id>
+		<name>Wolf 489</name>
+		<distance>8.240</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 UMa</id>
+		<name>Alula Australis</name>
+		<distance>8.370</distance>
+		<notes>SB in CNS91</notes>
+	</star>
+	<star>
+		<id>N3 Gem</id>
+		<name>Ross 64</name>
+		<distance>8.380</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 CVn</id>
+		<name>Chara</name>
+		<distance>8.390</distance>
+		<notes>SB 2429.9 days in YPC</notes>
+	</star>
+	<star>
+		<id>N7 Aqr</id>
+		<name>Wolf 1329</name>
+		<distance>8.750</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Sge</id>
+		<name>Ross 730</name>
+		<distance>8.760</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Sge B</id>
+		<name>Ross 731</name>
+		<distance>8.760</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N1 Crv</id>
+		<name>Ross 695</name>
+		<distance>8.890</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Eri</id>
+		<name>Rana</name>
+		<distance>9.020</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 CVn</id>
+		<name>Ross 1015</name>
+		<distance>9.050</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 UMa</id>
+		<name>Groombridge 1830</name>
+		<distance>9.110</distance>
+		<notes>A but no B in CNS91; CNS91 companion not confirmed/refuted</notes>
+	</star>
+	<star>
+		<id>N1 Tau</id>
+		<name>Ross 33</name>
+		<distance>9.190</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Cyg</id>
+		<name>Wolf 1069</name>
+		<distance>9.300</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Ori</id>
+		<name>Ross 41</name>
+		<distance>9.740</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Gem</id>
+		<name>Wolf 287</name>
+		<distance>9.840</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Boo</id>
+		<name>2MASS J15010818+2250020</name>
+		<distance>9.920</distance>
+		<notes>complete name TVLM 513-46546</notes>
+	</star>
+	<star>
+		<id>N9 Oph</id>
+		<name>Wolf 751</name>
+		<distance>9.930</distance>
+		<notes>&quot;A but no B in CNS91; speckle companion? in YPC; CNS69 companion not in CNS91: &quot;&quot;optical&quot;&quot;&quot;</notes>
+	</star>
+	<star>
+		<id>N6 Cas</id>
+		<name>Wolf 46</name>
+		<distance>10.030</distance>
+		<notes>&quot;SB? in CNS91; CNS91 &quot;&quot;SB?&quot;&quot; refuted in Tok92&quot;</notes>
+	</star>
+	<star>
+		<id>N3 Aql</id>
+		<name>Wolf 1062</name>
+		<distance>10.080</distance>
+		<notes>astrometric perturbation in Har77</notes>
+	</star>
+	<star>
+		<id>N6 Leo</id>
+		<name>Ross 905</name>
+		<distance>10.180</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Cet</id>
+		<name>2MASS J01231802-1256233</name>
+		<distance>10.220</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Her</id>
+		<name>Ross 860</name>
+		<distance>10.250</distance>
+		<notes>&quot;CNS91 &quot;&quot;VAR&quot;&quot; refuted in Mar89&quot;</notes>
+	</star>
+	<star>
+		<id>N9 Aqr</id>
+		<name>Wolf 1340</name>
+		<distance>10.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Gem</id>
+		<name>Pollux</name>
+		<distance>10.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Boo</id>
+		<name>Ross 52</name>
+		<distance>10.350</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Vir</id>
+		<name>Ross 119</name>
+		<distance>10.410</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Cet</id>
+		<name>Wolf 124</name>
+		<distance>10.410</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Oph</id>
+		<name>Wolf 635</name>
+		<distance>10.650</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Oph B</id>
+		<name>Wolf 636</name>
+		<distance>10.650</distance>
+		<notes>same as YPC 3880.00</notes>
+	</star>
+	<star>
+		<id>N2 Vul</id>
+		<name>Ross 165</name>
+		<distance>10.750</distance>
+		<notes>HIPnumber;noparallax</notes>
+	</star>
+	<star>
+		<id>N13 Vir</id>
+		<name>Zavijah</name>
+		<distance>10.890</distance>
+		<notes>SB? in CNS91;</notes>
+	</star>
+	<star>
+		<id>N14 Vir</id>
+		<name>Ross 848</name>
+		<distance>10.980</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Cas</id>
+		<name>Wolf 44</name>
+		<distance>11.000</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Leo</id>
+		<name>Denebola</name>
+		<distance>11.110</distance>
+		<notes>addtional components in YPC; LHS79 companion not in CNS91; not confirmed/refuted</notes>
+	</star>
+	<star>
+		<id>N5 Lib</id>
+		<name>Wolf 1478</name>
+		<distance>11.170</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 UMa</id>
+		<name>Ross 1003</name>
+		<distance>11.240</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Boo</id>
+		<name>Arcturus</name>
+		<distance>11.260</distance>
+		<notes>companion in HIP not real?</notes>
+	</star>
+	<star>
+		<id>N4 Lyr</id>
+		<name>Ross 145</name>
+		<distance>11.300</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Boo</id>
+		<name>Ross 837</name>
+		<distance>11.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Leo</id>
+		<name>Ross 85</name>
+		<distance>11.360</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Boo</id>
+		<name>Muphrid</name>
+		<distance>11.360</distance>
+		<notes>SB 494.17 days in YPC; additional components in</notes>
+	</star>
+	<star>
+		<id>N7 Peg</id>
+		<name>Ross 271</name>
+		<distance>11.560</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Cas</id>
+		<name>Ross 10</name>
+		<distance>11.600</distance>
+		<notes>HIP number; no parallax</notes>
+	</star>
+	<star>
+		<id>N6 Ser</id>
+		<name>Ross 508</name>
+		<distance>11.750</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N17 Vir</id>
+		<name>Porrima</name>
+		<distance>11.830</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Cap</id>
+		<name>Deneb Algedi</name>
+		<distance>11.840</distance>
+		<notes>SB 1.02 days in YPC; additional components in Y; eclipsing binary primary</notes>
+	</star>
+	<star>
+		<id>N5 Per</id>
+		<name>Ross 28</name>
+		<distance>11.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Aqr</id>
+		<name>Wolf 940</name>
+		<distance>11.980</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Her</id>
+		<name>Wolf 654</name>
+		<distance>12.030</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Aqr</id>
+		<name>Wolf 918</name>
+		<distance>12.190</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Ori</id>
+		<name>Wolf 1539</name>
+		<distance>12.220</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Ori</id>
+		<name>Ross 46</name>
+		<distance>12.410</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 And</id>
+		<name>Wolf 1056</name>
+		<distance>12.480</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Leo</id>
+		<name>Ross 92</name>
+		<distance>12.660</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 Aur</id>
+		<name>Capella</name>
+		<distance>12.940</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Boo</id>
+		<name>Wolf 497</name>
+		<distance>12.970</distance>
+		<notes>&quot; CNS69 companion not in CNS91: &quot;&quot;optical&quot;&quot;&quot;</notes>
+	</star>
+	<star>
+		<id>N15 Ori</id>
+		<name>Wolf 1449</name>
+		<distance>13.010</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N15 Cas</id>
+		<name>Ross 302</name>
+		<distance>13.230</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 Lib</id>
+		<name>Ross 802</name>
+		<distance>13.350</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Leo</id>
+		<name>Ross 627</name>
+		<distance>13.440</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Vir</id>
+		<name>Wolf 417</name>
+		<distance>13.460</distance>
+		<notes>not combined with NS 1231+0848 because of mismatch</notes>
+	</star>
+	<star>
+		<id>N27 UMa</id>
+		<name>Tet UMa</name>
+		<distance>13.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Vul</id>
+		<name>Wolf 1373</name>
+		<distance>13.590</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N20 Vir</id>
+		<name>Wolf 414</name>
+		<distance>13.640</distance>
+		<notes>not combined with NS 1228+0825 because of mismatch</notes>
+	</star>
+	<star>
+		<id>N4 Com</id>
+		<name>Ross 1020</name>
+		<distance>13.680</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 Per</id>
+		<name>Ross 587</name>
+		<distance>13.680</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Aql</id>
+		<name>Alshain</name>
+		<distance>13.700</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Psc</id>
+		<name>Wolf 1039</name>
+		<distance>13.770</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 Cep</id>
+		<name>Errai</name>
+		<distance>13.810</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Cyg</id>
+		<name>Wolf 1108</name>
+		<distance>13.870</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Aqr</id>
+		<name>Wolf 906</name>
+		<distance>13.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N22 Her</id>
+		<name>Ross 863</name>
+		<distance>14.100</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Leo</id>
+		<name>Ross 93</name>
+		<distance>14.170</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 For</id>
+		<name>Fornacis</name>
+		<distance>14.200</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 Ser</id>
+		<name>Ross 513</name>
+		<distance>14.220</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Cet</id>
+		<name>LP 709-43</name>
+		<distance>14.250</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Tuc B</id>
+		<name>TYC 9124-888-1</name>
+		<distance>14.270</distance>
+		<notes>P assumed third component of NS 2238-6522; assumed true companion; mismatched parallax has</notes>
+	</star>
+	<star>
+		<id>N11 Tau</id>
+		<name>Wolf 227</name>
+		<distance>14.290</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N25 Vir</id>
+		<name>Ross 1047</name>
+		<distance>14.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N20 Boo</id>
+		<name>Ross 130</name>
+		<distance>14.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Oph</id>
+		<name>Rasalhague</name>
+		<distance>14.370</distance>
+		<notes>&quot;SB in CNS91; additional astrometric companion?; CNS91 &quot;&quot;SB&quot;&quot; not confirmed/refuted&quot;</notes>
+	</star>
+	<star>
+		<id>N9 Aur</id>
+		<name>Ross 987</name>
+		<distance>14.450</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Per</id>
+		<name>Wolf 1323</name>
+		<distance>14.480</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Oph</id>
+		<name>Ross 136</name>
+		<distance>14.510</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Tau</id>
+		<name>Wolf 1278</name>
+		<distance>14.550</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N22 Boo</id>
+		<name>Asellus Primus</name>
+		<distance>14.570</distance>
+		<notes>C in CNS69 not in CNS91; additional components; CNS69 component C not in CNS91; not confirmed/re</notes>
+	</star>
+	<star>
+		<id>N4 Vul</id>
+		<name>Wolf 1346</name>
+		<distance>14.580</distance>
+		<notes>&quot;CNS91 &quot;&quot;VAR&quot;&quot; not confirmed/refuted&quot;</notes>
+	</star>
+	<star>
+		<id>N7 Gem</id>
+		<name>Wolf 1421</name>
+		<distance>14.600</distance>
+		<notes>SB2 in Mar87</notes>
+	</star>
+	<star>
+		<id>N33 UMa</id>
+		<name>Talitha</name>
+		<distance>14.630</distance>
+		<notes>CNS91 mentions similar motion to NS 0900+4146</notes>
+	</star>
+	<star>
+		<id>N8 Mon</id>
+		<name>Ross 417</name>
+		<distance>14.660</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Cam</id>
+		<name>Ross 370</name>
+		<distance>14.760</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Crv</id>
+		<name>Alchiba</name>
+		<distance>14.770</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N6 CMi</id>
+		<name>Ross 880</name>
+		<distance>14.780</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Vir</id>
+		<name>Wolf 433</name>
+		<distance>14.810</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Cyg</id>
+		<name>Ross 188</name>
+		<distance>14.900</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Cep</id>
+		<name>Alderamin</name>
+		<distance>14.960</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 And</id>
+		<name>Ross 5</name>
+		<distance>14.970</distance>
+		<notes>&quot;CNS91 &quot;&quot;VAR&quot;&quot; refuted in Mar89&quot;</notes>
+	</star>
+	<star>
+		<id>N17 Peg</id>
+		<name>Wolf 1014</name>
+		<distance>14.980</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N17 Cas</id>
+		<name>Wolf 54</name>
+		<distance>15.040</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Cep</id>
+		<name>Ross 226</name>
+		<distance>15.220</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Gem</id>
+		<name>Castor</name>
+		<distance>15.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Gem B</id>
+		<name>Castor B</name>
+		<distance>15.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Gem E</id>
+		<name>Castor C</name>
+		<distance>15.270</distance>
+		<notes>eclipsing binary primary</notes>
+	</star>
+	<star>
+		<id>N27 Her</id>
+		<name>Ross 160</name>
+		<distance>15.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Eri</id>
+		<name>Ross 584</name>
+		<distance>15.360</distance>
+		<notes>&quot;&quot;&quot; &quot;&quot;&quot;&quot;close binary&quot;&quot;&quot;&quot; in YPC&quot;&quot;&quot;</notes>
+	</star>
+	<star>
+		<id>N18 Psc</id>
+		<name>Wolf 1516</name>
+		<distance>15.410</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Mon</id>
+		<name>Ross 54</name>
+		<distance>15.530</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N16 Leo</id>
+		<name>Wolf 398</name>
+		<distance>15.670</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Vul</id>
+		<name>Wolf 867</name>
+		<distance>15.700</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Dra</id>
+		<name>Ross 434</name>
+		<distance>15.720</distance>
+		<notes>astrometric companion? in CNS69</notes>
+	</star>
+	<star>
+		<id>N13 Cep</id>
+		<name>Wolf 1084</name>
+		<distance>15.870</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 CVn</id>
+		<name>Ross 1026</name>
+		<distance>15.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N32 Her</id>
+		<name>Ross 640</name>
+		<distance>15.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Cap</id>
+		<name>Ross 751</name>
+		<distance>16.000</distance>
+		<notes>YPC companions refuted via 2 DSS epochs</notes>
+	</star>
+	<star>
+		<id>N29 Eri</id>
+		<name>Ross 578</name>
+		<distance>16.030</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Peg</id>
+		<name>Wolf 1225</name>
+		<distance>16.080</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 CVn</id>
+		<name>Ross 1008</name>
+		<distance>16.130</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Leo</id>
+		<name>Ross 903</name>
+		<distance>16.200</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N41 UMa</id>
+		<name>Ross 107</name>
+		<distance>16.230</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Ori</id>
+		<name>Wachmann's Flare Star</name>
+		<distance>16.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Boo</id>
+		<name>Ross 992</name>
+		<distance>16.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N24 Aqr</id>
+		<name>Wolf 920</name>
+		<distance>16.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N21 Peg</id>
+		<name>Ross 265</name>
+		<distance>16.360</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Psc</id>
+		<name>Wolf 1530</name>
+		<distance>16.390</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N2 Sct</id>
+		<name>Ross 720</name>
+		<distance>16.400</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N30 Vir</id>
+		<name>Wolf 485</name>
+		<distance>16.420</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N30 Vir B</id>
+		<name>Ross 476</name>
+		<distance>16.420</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Leo</id>
+		<name>Ross 83</name>
+		<distance>16.470</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N43 UMa</id>
+		<name>Ross 110</name>
+		<distance>16.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N31 Vir</id>
+		<name>Wolf 457</name>
+		<distance>16.580</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N20 Cas</id>
+		<name>Ross 249</name>
+		<distance>16.600</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N29 Dra</id>
+		<name>Ross 689</name>
+		<distance>16.610</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N21 Cas</id>
+		<name>Caph</name>
+		<distance>16.680</distance>
+		<notes>SB? in CNS91</notes>
+	</star>
+	<star>
+		<id>N10 Per</id>
+		<name>Wolf 1325</name>
+		<distance>16.850</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Sco</id>
+		<name>Ross 854</name>
+		<distance>16.860</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Hya</id>
+		<name>Ross 439</name>
+		<distance>16.860</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Cnc</id>
+		<name>Ross 622</name>
+		<distance>16.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N31 Cet</id>
+		<name>Ross 555</name>
+		<distance>17.170</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 And</id>
+		<name>Wolf 12</name>
+		<distance>17.260</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N26 Psc</id>
+		<name>Wolf 1051</name>
+		<distance>17.280</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Lib</id>
+		<name>2MASS J15101685-0241078</name>
+		<distance>17.390</distance>
+		<notes>I</notes>
+	</star>
+	<star>
+		<id>N27 Aqr</id>
+		<name>Ross 279</name>
+		<distance>17.420</distance>
+		<notes>CNS69 companion not in CNS91; not confirmed/refu</notes>
+	</star>
+	<star>
+		<id>N14 Cyg</id>
+		<name>Wolf 926</name>
+		<distance>17.450</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Mon</id>
+		<name>Ross 415</name>
+		<distance>17.480</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 CVn</id>
+		<name>Ross 1007</name>
+		<distance>17.540</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Gem</id>
+		<name>Alzirr</name>
+		<distance>17.550</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N22 Tau</id>
+		<name>Ross 588</name>
+		<distance>17.560</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N33 Dra</id>
+		<name>Ross 1051</name>
+		<distance>17.560</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Ori</id>
+		<name>Wolf 1450</name>
+		<distance>17.610</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N33 Vir</id>
+		<name>Wolf 427</name>
+		<distance>17.630</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Tri</id>
+		<name>Ross 19</name>
+		<distance>17.730</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N24 Leo</id>
+		<name>Zosma</name>
+		<distance>17.730</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N28 Oph</id>
+		<name>Ross 529</name>
+		<distance>17.750</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Cap</id>
+		<name>Ross 769</name>
+		<distance>17.810</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 Com</id>
+		<name>Diadem</name>
+		<distance>17.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N29 Aqr</id>
+		<name>Wolf 896</name>
+		<distance>17.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N26 Leo</id>
+		<name>Wolf 369</name>
+		<distance>17.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Per</id>
+		<name>Ross 29</name>
+		<distance>17.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N34 Dra</id>
+		<name>Ross 690</name>
+		<distance>17.950</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Mon</id>
+		<name>Ross 416</name>
+		<distance>17.990</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N16 Gem</id>
+		<name>Wasat</name>
+		<distance>18.020</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N9 Ari</id>
+		<name>Sharatan</name>
+		<distance>18.230</distance>
+		<notes>SB 107 days in YPC</notes>
+	</star>
+	<star>
+		<id>N15 Cnc</id>
+		<name>Ross 620</name>
+		<distance>18.340</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N26 Cas</id>
+		<name>Wolf 33</name>
+		<distance>18.400</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N3 Sct</id>
+		<name>Wolf 1466</name>
+		<distance>18.480</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Cen</id>
+		<name>Menkent</name>
+		<distance>18.670</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N38 Boo</id>
+		<name>Ross 1041</name>
+		<distance>18.690</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N37 Vir</id>
+		<name>Rijl al Awwa</name>
+		<distance>18.750</distance>
+		<notes>SB 358 days in YPC</notes>
+	</star>
+	<star>
+		<id>N14 Per</id>
+		<name>Ross 21</name>
+		<distance>19.010</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N25 Tau</id>
+		<name>Wolf 219</name>
+		<distance>19.010</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N35 Oph</id>
+		<name>Ross 644</name>
+		<distance>19.040</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N39 Vir</id>
+		<name>Wolf 534</name>
+		<distance>19.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 CrB</id>
+		<name>Ross 806</name>
+		<distance>19.270</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N48 Her</id>
+		<name>Ross 812</name>
+		<distance>19.280</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Aql</id>
+		<name>Wolf 865</name>
+		<distance>19.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N27 Tau</id>
+		<name>Ross 59</name>
+		<distance>19.420</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Gem</id>
+		<name>Ross 878</name>
+		<distance>19.470</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Sge B</id>
+		<name>Ross 734</name>
+		<distance>19.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Pup</id>
+		<name>Ross 429</name>
+		<distance>19.550</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N40 Dra</id>
+		<name>Wolf 1409</name>
+		<distance>19.610</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Tri</id>
+		<name>Atria</name>
+		<distance>19.650</distance>
+		<notes>SB 1.8 days in YPC; additional components in YP</notes>
+	</star>
+	<star>
+		<id>N30 Peg</id>
+		<name>Wolf 953</name>
+		<distance>19.870</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N16 Per</id>
+		<name>Ross 346</name>
+		<distance>19.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N13 Ari</id>
+		<name>Ross 791</name>
+		<distance>20.000</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Del</id>
+		<name>Ross 257</name>
+		<distance>20.010</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N31 Tau</id>
+		<name>Aldebaran</name>
+		<distance>20.020</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N31 Tau B</id>
+		<name>Aldebaran B</name>
+		<distance>20.020</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N17 CVn</id>
+		<name>Ross 991</name>
+		<distance>20.040</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N14 Ari</id>
+		<name>Hamal</name>
+		<distance>20.120</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N12 Crt B</id>
+		<name>LP 793-34</name>
+		<distance>20.150</distance>
+		<notes>Take plx from CPM companion</notes>
+	</star>
+	<star>
+		<id>N29 Leo</id>
+		<name>Ross 84</name>
+		<distance>20.240</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N38 Hya</id>
+		<name>Wolf 623</name>
+		<distance>20.470</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N5 Sge</id>
+		<name>Wolf 873</name>
+		<distance>20.540</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N45 Vir</id>
+		<name>Wolf 1487</name>
+		<distance>20.570</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N18 Ser</id>
+		<name>Ross 512</name>
+		<distance>20.620</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N45 Boo</id>
+		<name>Ross 835</name>
+		<distance>20.720</distance>
+		<notes>SIMBAD says it is binary (Hipparcos multiple flag = G)</notes>
+	</star>
+	<star>
+		<id>N16 Ari</id>
+		<name>Wolf 87</name>
+		<distance>20.730</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Cnc</id>
+		<name>Wolf 324</name>
+		<distance>20.760</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N25 Gem</id>
+		<name>Ross 60</name>
+		<distance>21.010</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N32 Cas</id>
+		<name>Ross 9</name>
+		<distance>21.090</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N19 Ser</id>
+		<name>Ross 142</name>
+		<distance>21.250</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N50 Vir</id>
+		<name>Ross 1044</name>
+		<distance>21.280</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N17 Sgr</id>
+		<name>Ross 727</name>
+		<distance>21.370</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N51 Vir</id>
+		<name>Syrma</name>
+		<distance>21.400</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N24 Cyg</id>
+		<name>Wolf 945</name>
+		<distance>21.410</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N33 Leo</id>
+		<name>Wolf 386</name>
+		<distance>21.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N53 Vir</id>
+		<name>Ross 847</name>
+		<distance>21.650</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N53 Her</id>
+		<name>Ross 709</name>
+		<distance>21.780</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N51 Dra</id>
+		<name>Dsiban</name>
+		<distance>22.020</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N28 Cyg</id>
+		<name>Gienah Cygni</name>
+		<distance>22.060</distance>
+		<notes>&quot;SB in CNS91; CNS91 &quot;&quot;SB&quot;&quot; confirmed via YPC&quot;</notes>
+	</star>
+	<star>
+		<id>N31 And</id>
+		<name>Ross 322</name>
+		<distance>22.170</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N41 Tau</id>
+		<name>Wolf 1057</name>
+		<distance>22.170</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Tri</id>
+		<name>Ross 17</name>
+		<distance>22.220</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N32 Ori</id>
+		<name>Ross 49</name>
+		<distance>22.390</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N35 Leo</id>
+		<name>Ross 89</name>
+		<distance>22.390</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N24 Ser</id>
+		<name>Unukalhai</name>
+		<distance>22.430</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N31 Cyg</id>
+		<name>Ross 765</name>
+		<distance>22.460</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N57 Vir</id>
+		<name>Heze</name>
+		<distance>22.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N45 Tau</id>
+		<name>Wolf 1322</name>
+		<distance>22.830</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N58 Cet</id>
+		<name>Wolf 1132</name>
+		<distance>22.840</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N34 And</id>
+		<name>Ross 680</name>
+		<distance>22.900</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N8 CMa</id>
+		<name>Ross 56</name>
+		<distance>22.940</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N10 CrB</id>
+		<name>Alphecca</name>
+		<distance>22.940</distance>
+		<notes>eclipsing SB 17.36 days in YPC</notes>
+	</star>
+	<star>
+		<id>N72 UMa</id>
+		<name>Ross 447</name>
+		<distance>23.070</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N59 Vir</id>
+		<name>Wolf 1060</name>
+		<distance>23.110</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N20 Per</id>
+		<name>Ross 364</name>
+		<distance>23.120</distance>
+		<notes>2 HIP numbers; only 1 parallax</notes>
+	</star>
+	<star>
+		<id>N20 Per B</id>
+		<name>Ross 365</name>
+		<distance>23.120</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N11 Lac</id>
+		<name>Ross 668</name>
+		<distance>23.200</distance>
+		<notes>HIP number; no parallax; C optical in CNS91</notes>
+	</star>
+	<star>
+		<id>N61 Her</id>
+		<name>Wolf 835</name>
+		<distance>23.250</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N49 Oph</id>
+		<name>Wolf 1471</name>
+		<distance>23.310</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N35 Cyg</id>
+		<name>Ross 201</name>
+		<distance>23.470</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N61 Vir</id>
+		<name>Wolf 490</name>
+		<distance>23.490</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N20 Sgr</id>
+		<name>Kaus Borealis</name>
+		<distance>23.500</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N50 Aqr</id>
+		<name>Wolf 1336</name>
+		<distance>23.580</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N21 Lib</id>
+		<name>Zubenelgenubi</name>
+		<distance>23.620</distance>
+		<notes>&quot;YPC &quot;&quot;occultation double&quot;&quot; not confirmed/refuted&quot;</notes>
+	</star>
+	<star>
+		<id>N39 Leo</id>
+		<name>Regulus</name>
+		<distance>23.750</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N22 Phe</id>
+		<name>Ankaa</name>
+		<distance>23.750</distance>
+		<notes>SB 3849 days in YPC</notes>
+	</star>
+	<star>
+		<id>N27 Cep</id>
+		<name>Wolf 1106</name>
+		<distance>23.920</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N28 Cep</id>
+		<name>Wolf 1080</name>
+		<distance>23.940</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N54 Hya</id>
+		<name>Ross 687</name>
+		<distance>24.030</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N73 Her</id>
+		<name>Sarin</name>
+		<distance>24.080</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N41 Leo</id>
+		<name>Wolf 370</name>
+		<distance>24.130</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N40 And</id>
+		<name>Ross 244</name>
+		<distance>24.230</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N81 UMa</id>
+		<name>Merak</name>
+		<distance>24.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N82 UMa</id>
+		<name>Ross 492</name>
+		<distance>24.330</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N84 UMa</id>
+		<name>Mizar</name>
+		<distance>24.440</distance>
+		<notes>Mizar = 1323+5455 A. Hip2 puts Mizar/Alcor just outside 25 pc.</notes>
+	</star>
+	<star>
+		<id>N84 UMa E</id>
+		<name>Alcor A</name>
+		<distance>24.440</distance>
+		<notes>&quot;Alcor = 1323+5455 E: sep 708&quot;&quot; @ 70d from A (YPC95)&quot;</notes>
+	</star>
+	<star>
+		<id>N84 UMa F</id>
+		<name>Alcor B</name>
+		<distance>24.440</distance>
+		<notes>&quot;Alcor B detected 2009. Sep 1&quot;&quot;.11 (28 AU)&quot;</notes>
+	</star>
+	<star>
+		<id>N12 Com</id>
+		<name>Wolf 408</name>
+		<distance>24.490</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N51 Oph</id>
+		<name>Ross 133</name>
+		<distance>24.510</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N7 Sge</id>
+		<name>Wolf 871</name>
+		<distance>24.510</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N53 Peg</id>
+		<name>Ross 778</name>
+		<distance>24.570</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N35 Gem</id>
+		<name>Ross 62</name>
+		<distance>24.630</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N23 Sgr</id>
+		<name>Ross 162</name>
+		<distance>24.630</distance>
+		<notes>HIP plx shows &gt; 25 pc</notes>
+	</star>
+	<star>
+		<id>N52 Oph</id>
+		<name>Sabik</name>
+		<distance>24.760</distance>
+		<notes>CNS91 component C not confirmed/refuted</notes>
+	</star>
+	<star>
+		<id>N89 UMa</id>
+		<name>Megrez</name>
+		<distance>24.910</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N74 Cet</id>
+		<name>Kaffaljidhma</name>
+		<distance>24.930</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N38 Gem B</id>
+		<name>Ross 419</name>
+		<distance>24.980</distance>
+		<notes>Record added from MOD1A.000620.update</notes>
+	</star>
+	<star>
+		<id>N53 Eri</id>
+		<name>68 Eri</name>
+		<distance>24.990</distance>
+		<notes></notes>
+	</star>
+	<star>
+		<id>N4 Sct</id>
+		<name>Wolf 1462</name>
+		<distance>25.000</distance>
+		<notes>NULL</notes>
+	</star>
+</cosmos>

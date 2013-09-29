@@ -1,0 +1,1661 @@
+{
+  "cosmos": {
+    "star": [
+      {
+        "id": "N1 Cen C",
+        "name": "Proxima Centauri",
+        "distance": "1.301",
+        "notes": "Gl 559 AB same system; parallaxes NOT combined"
+      },
+      {
+        "id": "N1 Cen",
+        "name": "Rigil Kentaurus",
+        "distance": "1.338",
+        "notes": "Gl 551 same system; parallaxes NOT combined"
+      },
+      {
+        "id": "N1 Cen B",
+        "name": "Rigil Kentaurus B",
+        "distance": "1.338",
+        "notes": "Gl 551 same system; parallaxes NOT combined"
+      },
+      {
+        "id": "N1 Oph",
+        "name": "Barnard's Star",
+        "distance": "1.828"
+      },
+      {
+        "id": "N1 Leo",
+        "name": "Wolf 359",
+        "distance": "2.386"
+      },
+      {
+        "id": "N1 UMa",
+        "name": "Lalande 21185",
+        "distance": "2.542"
+      },
+      {
+        "id": "N1 CMa",
+        "name": "Sirius",
+        "distance": "2.631"
+      },
+      {
+        "id": "N1 CMa B",
+        "name": "Sirius B",
+        "distance": "2.631"
+      },
+      {
+        "id": "N1 Cet",
+        "name": "Luyten 726-8 A",
+        "distance": "2.676"
+      },
+      {
+        "id": "N1 Cet B",
+        "name": "Luyten 726-8 B",
+        "distance": "2.676"
+      },
+      {
+        "id": "N1 Sgr",
+        "name": "Ross 154",
+        "distance": "2.968"
+      },
+      {
+        "id": "N1 And",
+        "name": "Ross 248",
+        "distance": "3.165"
+      },
+      {
+        "id": "N1 PsA",
+        "name": "Lacaille 9352",
+        "distance": "3.293"
+      },
+      {
+        "id": "N1 Vir",
+        "name": "Ross 128",
+        "distance": "3.348"
+      },
+      {
+        "id": "N1 CMi",
+        "name": "Procyon",
+        "distance": "3.496"
+      },
+      {
+        "id": "N1 CMi B",
+        "name": "Procyon B",
+        "distance": "3.496"
+      },
+      {
+        "id": "N2 CMi",
+        "name": "Luyten's Star",
+        "distance": "3.791"
+      },
+      {
+        "id": "N1 Ari",
+        "name": "Teegarden's Star",
+        "distance": "3.837"
+      },
+      {
+        "id": "N1 Pav",
+        "name": "2MASS J18450541-6357475",
+        "distance": "3.854"
+      },
+      {
+        "id": "N1 Pav B",
+        "name": "2MASS J18450541-6357475 B",
+        "distance": "3.854",
+        "notes": "Brown dwarf"
+      },
+      {
+        "id": "N1 Pic",
+        "name": "Kapteyn's Star",
+        "distance": "3.917"
+      },
+      {
+        "id": "N1 Mic",
+        "name": "Lacaille 8760",
+        "distance": "3.946"
+      },
+      {
+        "id": "N1 Ant",
+        "name": "2MASS J10481463-3956062",
+        "distance": "4.037",
+        "notes": "Brown dwarf"
+      },
+      {
+        "id": "N2 Oph",
+        "name": "Wolf 1061",
+        "distance": "4.237",
+        "notes": "\"CNS91 \"\"SB\"\" not confirmed/refuted\""
+      },
+      {
+        "id": "N1 Psc",
+        "name": "van Maanen's Star",
+        "distance": "4.313"
+      },
+      {
+        "id": "N2 Vir",
+        "name": "Wolf 424",
+        "distance": "4.388"
+      },
+      {
+        "id": "N3 UMa",
+        "name": "Groombridge 1618",
+        "distance": "4.859"
+      },
+      {
+        "id": "N2 Leo",
+        "name": "Gam Leo C",
+        "distance": "4.888",
+        "notes": "astrometric companion? in CNS69 unlikely"
+      },
+      {
+        "id": "N1 For",
+        "name": "LP 944-20",
+        "distance": "4.965",
+        "notes": "Brown Dwarf"
+      },
+      {
+        "id": "N2 Eri",
+        "name": "2MASS J02550357-4700509",
+        "distance": "4.966",
+        "notes": "Brown Dwarf"
+      },
+      {
+        "id": "N3 Eri",
+        "name": "Keid",
+        "distance": "5.025"
+      },
+      {
+        "id": "N1 Aql",
+        "name": "Altair",
+        "distance": "5.129"
+      },
+      {
+        "id": "N1 Boo",
+        "name": "Wolf 498",
+        "distance": "5.429"
+      },
+      {
+        "id": "N1 Gem",
+        "name": "Wolf 294",
+        "distance": "5.569"
+      },
+      {
+        "id": "N1 Lyr",
+        "name": "2MASS J18353790+3259545",
+        "distance": "5.666",
+        "notes": "Reid et al. 2003"
+      },
+      {
+        "id": "N2 Ori",
+        "name": "Wolf 1453",
+        "distance": "5.709"
+      },
+      {
+        "id": "N5 Eri",
+        "name": "2MASS J04151954-0935066",
+        "distance": "5.736",
+        "notes": "Vrba et al. 2004"
+      },
+      {
+        "id": "N3 Dra",
+        "name": "Alsafi",
+        "distance": "5.761"
+      },
+      {
+        "id": "N1 Cas",
+        "name": "Achird",
+        "distance": "5.939"
+      },
+      {
+        "id": "N3 Leo",
+        "name": "2MASS J09373487+2931409",
+        "distance": "6.140",
+        "notes": "Vrba et al. 2004"
+      },
+      {
+        "id": "N5 Oph",
+        "name": "Wolf 630",
+        "distance": "6.450"
+      },
+      {
+        "id": "N5 Oph D",
+        "name": "Wolf 629",
+        "distance": "6.450",
+        "notes": "\"CNS91 \"\"SB\"\" refuted in Maz01\""
+      },
+      {
+        "id": "N2 Cas",
+        "name": "Bradley 3077",
+        "distance": "6.520",
+        "notes": "astrometric companion? in YPC"
+      },
+      {
+        "id": "N4 Leo",
+        "name": "Ross 104",
+        "distance": "6.660"
+      },
+      {
+        "id": "N2 Peg",
+        "name": "Ross 775",
+        "distance": "6.750",
+        "notes": "SB1 in Del99b"
+      },
+      {
+        "id": "N5 Cnc",
+        "name": "Ross 619",
+        "distance": "6.840"
+      },
+      {
+        "id": "N3 Peg",
+        "name": "Ross 671",
+        "distance": "6.860",
+        "notes": "\"CNS91 \"\"SB\"\" refuted in Mar89 and Tok92\""
+      },
+      {
+        "id": "N2 Sex",
+        "name": "Ross 446",
+        "distance": "7.270"
+      },
+      {
+        "id": "N4 Psc",
+        "name": "Wolf 25",
+        "distance": "7.440"
+      },
+      {
+        "id": "N4 Vir",
+        "name": "Ross 490",
+        "distance": "7.540"
+      },
+      {
+        "id": "N2 PsA",
+        "name": "Fomalhaut",
+        "distance": "7.660",
+        "notes": "same system as Gl 879"
+      },
+      {
+        "id": "N6 Oph",
+        "name": "Wolf 718",
+        "distance": "7.720"
+      },
+      {
+        "id": "N2 Lyr",
+        "name": "Vega",
+        "distance": "7.750"
+      },
+      {
+        "id": "N6 Ori",
+        "name": "Tabit",
+        "distance": "8.060"
+      },
+      {
+        "id": "N4 Cas",
+        "name": "Ross 318",
+        "distance": "8.170",
+        "notes": "possible cpm with YPC 86.00"
+      },
+      {
+        "id": "N3 Lyr",
+        "name": "17 Lyr C",
+        "distance": "8.180",
+        "notes": "not part of the 17 Lyr system in Gic67"
+      },
+      {
+        "id": "N6 Vir",
+        "name": "Wolf 437",
+        "distance": "8.210"
+      },
+      {
+        "id": "N7 Vir",
+        "name": "Wolf 489",
+        "distance": "8.240"
+      },
+      {
+        "id": "N6 UMa",
+        "name": "Alula Australis",
+        "distance": "8.370",
+        "notes": "SB in CNS91"
+      },
+      {
+        "id": "N3 Gem",
+        "name": "Ross 64",
+        "distance": "8.380"
+      },
+      {
+        "id": "N1 CVn",
+        "name": "Chara",
+        "distance": "8.390",
+        "notes": "SB 2429.9 days in YPC"
+      },
+      {
+        "id": "N7 Aqr",
+        "name": "Wolf 1329",
+        "distance": "8.750"
+      },
+      {
+        "id": "N1 Sge",
+        "name": "Ross 730",
+        "distance": "8.760"
+      },
+      {
+        "id": "N1 Sge B",
+        "name": "Ross 731",
+        "distance": "8.760"
+      },
+      {
+        "id": "N1 Crv",
+        "name": "Ross 695",
+        "distance": "8.890"
+      },
+      {
+        "id": "N11 Eri",
+        "name": "Rana",
+        "distance": "9.020"
+      },
+      {
+        "id": "N2 CVn",
+        "name": "Ross 1015",
+        "distance": "9.050"
+      },
+      {
+        "id": "N9 UMa",
+        "name": "Groombridge 1830",
+        "distance": "9.110",
+        "notes": "A but no B in CNS91; CNS91 companion not confirmed/refuted"
+      },
+      {
+        "id": "N1 Tau",
+        "name": "Ross 33",
+        "distance": "9.190"
+      },
+      {
+        "id": "N3 Cyg",
+        "name": "Wolf 1069",
+        "distance": "9.300"
+      },
+      {
+        "id": "N8 Ori",
+        "name": "Ross 41",
+        "distance": "9.740"
+      },
+      {
+        "id": "N4 Gem",
+        "name": "Wolf 287",
+        "distance": "9.840"
+      },
+      {
+        "id": "N3 Boo",
+        "name": "2MASS J15010818+2250020",
+        "distance": "9.920",
+        "notes": "complete name TVLM 513-46546"
+      },
+      {
+        "id": "N9 Oph",
+        "name": "Wolf 751",
+        "distance": "9.930",
+        "notes": "\"A but no B in CNS91; speckle companion? in YPC; CNS69 companion not in CNS91: \"\"optical\"\"\""
+      },
+      {
+        "id": "N6 Cas",
+        "name": "Wolf 46",
+        "distance": "10.030",
+        "notes": "\"SB? in CNS91; CNS91 \"\"SB?\"\" refuted in Tok92\""
+      },
+      {
+        "id": "N3 Aql",
+        "name": "Wolf 1062",
+        "distance": "10.080",
+        "notes": "astrometric perturbation in Har77"
+      },
+      {
+        "id": "N6 Leo",
+        "name": "Ross 905",
+        "distance": "10.180"
+      },
+      {
+        "id": "N12 Cet",
+        "name": "2MASS J01231802-1256233",
+        "distance": "10.220"
+      },
+      {
+        "id": "N12 Her",
+        "name": "Ross 860",
+        "distance": "10.250",
+        "notes": "\"CNS91 \"\"VAR\"\" refuted in Mar89\""
+      },
+      {
+        "id": "N9 Aqr",
+        "name": "Wolf 1340",
+        "distance": "10.270"
+      },
+      {
+        "id": "N5 Gem",
+        "name": "Pollux",
+        "distance": "10.330"
+      },
+      {
+        "id": "N5 Boo",
+        "name": "Ross 52",
+        "distance": "10.350"
+      },
+      {
+        "id": "N11 Vir",
+        "name": "Ross 119",
+        "distance": "10.410"
+      },
+      {
+        "id": "N13 Cet",
+        "name": "Wolf 124",
+        "distance": "10.410"
+      },
+      {
+        "id": "N10 Oph",
+        "name": "Wolf 635",
+        "distance": "10.650"
+      },
+      {
+        "id": "N10 Oph B",
+        "name": "Wolf 636",
+        "distance": "10.650",
+        "notes": "same as YPC 3880.00"
+      },
+      {
+        "id": "N2 Vul",
+        "name": "Ross 165",
+        "distance": "10.750",
+        "notes": "HIPnumber;noparallax"
+      },
+      {
+        "id": "N13 Vir",
+        "name": "Zavijah",
+        "distance": "10.890",
+        "notes": "SB? in CNS91;"
+      },
+      {
+        "id": "N14 Vir",
+        "name": "Ross 848",
+        "distance": "10.980"
+      },
+      {
+        "id": "N8 Cas",
+        "name": "Wolf 44",
+        "distance": "11.000"
+      },
+      {
+        "id": "N7 Leo",
+        "name": "Denebola",
+        "distance": "11.110",
+        "notes": "addtional components in YPC; LHS79 companion not in CNS91; not confirmed/refuted"
+      },
+      {
+        "id": "N5 Lib",
+        "name": "Wolf 1478",
+        "distance": "11.170"
+      },
+      {
+        "id": "N18 UMa",
+        "name": "Ross 1003",
+        "distance": "11.240"
+      },
+      {
+        "id": "N7 Boo",
+        "name": "Arcturus",
+        "distance": "11.260",
+        "notes": "companion in HIP not real?"
+      },
+      {
+        "id": "N4 Lyr",
+        "name": "Ross 145",
+        "distance": "11.300"
+      },
+      {
+        "id": "N8 Boo",
+        "name": "Ross 837",
+        "distance": "11.310"
+      },
+      {
+        "id": "N8 Leo",
+        "name": "Ross 85",
+        "distance": "11.360"
+      },
+      {
+        "id": "N9 Boo",
+        "name": "Muphrid",
+        "distance": "11.360",
+        "notes": "SB 494.17 days in YPC; additional components in"
+      },
+      {
+        "id": "N7 Peg",
+        "name": "Ross 271",
+        "distance": "11.560"
+      },
+      {
+        "id": "N10 Cas",
+        "name": "Ross 10",
+        "distance": "11.600",
+        "notes": "HIP number; no parallax"
+      },
+      {
+        "id": "N6 Ser",
+        "name": "Ross 508",
+        "distance": "11.750"
+      },
+      {
+        "id": "N17 Vir",
+        "name": "Porrima",
+        "distance": "11.830"
+      },
+      {
+        "id": "N4 Cap",
+        "name": "Deneb Algedi",
+        "distance": "11.840",
+        "notes": "SB 1.02 days in YPC; additional components in Y; eclipsing binary primary"
+      },
+      {
+        "id": "N5 Per",
+        "name": "Ross 28",
+        "distance": "11.920"
+      },
+      {
+        "id": "N13 Aqr",
+        "name": "Wolf 940",
+        "distance": "11.980"
+      },
+      {
+        "id": "N18 Her",
+        "name": "Wolf 654",
+        "distance": "12.030"
+      },
+      {
+        "id": "N14 Aqr",
+        "name": "Wolf 918",
+        "distance": "12.190"
+      },
+      {
+        "id": "N12 Ori",
+        "name": "Wolf 1539",
+        "distance": "12.220"
+      },
+      {
+        "id": "N13 Ori",
+        "name": "Ross 46",
+        "distance": "12.410"
+      },
+      {
+        "id": "N6 And",
+        "name": "Wolf 1056",
+        "distance": "12.480"
+      },
+      {
+        "id": "N11 Leo",
+        "name": "Ross 92",
+        "distance": "12.660"
+      },
+      {
+        "id": "N6 Aur",
+        "name": "Capella",
+        "distance": "12.940"
+      },
+      {
+        "id": "N14 Boo",
+        "name": "Wolf 497",
+        "distance": "12.970",
+        "notes": "\" CNS69 companion not in CNS91: \"\"optical\"\"\""
+      },
+      {
+        "id": "N15 Ori",
+        "name": "Wolf 1449",
+        "distance": "13.010"
+      },
+      {
+        "id": "N15 Cas",
+        "name": "Ross 302",
+        "distance": "13.230"
+      },
+      {
+        "id": "N6 Lib",
+        "name": "Ross 802",
+        "distance": "13.350"
+      },
+      {
+        "id": "N12 Leo",
+        "name": "Ross 627",
+        "distance": "13.440"
+      },
+      {
+        "id": "N19 Vir",
+        "name": "Wolf 417",
+        "distance": "13.460",
+        "notes": "not combined with NS 1231+0848 because of mismatch"
+      },
+      {
+        "id": "N27 UMa",
+        "name": "Tet UMa",
+        "distance": "13.500"
+      },
+      {
+        "id": "N3 Vul",
+        "name": "Wolf 1373",
+        "distance": "13.590"
+      },
+      {
+        "id": "N20 Vir",
+        "name": "Wolf 414",
+        "distance": "13.640",
+        "notes": "not combined with NS 1228+0825 because of mismatch"
+      },
+      {
+        "id": "N4 Com",
+        "name": "Ross 1020",
+        "distance": "13.680"
+      },
+      {
+        "id": "N6 Per",
+        "name": "Ross 587",
+        "distance": "13.680"
+      },
+      {
+        "id": "N10 Aql",
+        "name": "Alshain",
+        "distance": "13.700"
+      },
+      {
+        "id": "N14 Psc",
+        "name": "Wolf 1039",
+        "distance": "13.770"
+      },
+      {
+        "id": "N6 Cep",
+        "name": "Errai",
+        "distance": "13.810"
+      },
+      {
+        "id": "N8 Cyg",
+        "name": "Wolf 1108",
+        "distance": "13.870"
+      },
+      {
+        "id": "N18 Aqr",
+        "name": "Wolf 906",
+        "distance": "13.920"
+      },
+      {
+        "id": "N22 Her",
+        "name": "Ross 863",
+        "distance": "14.100"
+      },
+      {
+        "id": "N14 Leo",
+        "name": "Ross 93",
+        "distance": "14.170"
+      },
+      {
+        "id": "N7 For",
+        "name": "Fornacis",
+        "distance": "14.200"
+      },
+      {
+        "id": "N8 Ser",
+        "name": "Ross 513",
+        "distance": "14.220"
+      },
+      {
+        "id": "N18 Cet",
+        "name": "LP 709-43",
+        "distance": "14.250"
+      },
+      {
+        "id": "N4 Tuc B",
+        "name": "TYC 9124-888-1",
+        "distance": "14.270",
+        "notes": "P assumed third component of NS 2238-6522; assumed true companion; mismatched parallax has"
+      },
+      {
+        "id": "N11 Tau",
+        "name": "Wolf 227",
+        "distance": "14.290"
+      },
+      {
+        "id": "N25 Vir",
+        "name": "Ross 1047",
+        "distance": "14.310"
+      },
+      {
+        "id": "N20 Boo",
+        "name": "Ross 130",
+        "distance": "14.330"
+      },
+      {
+        "id": "N18 Oph",
+        "name": "Rasalhague",
+        "distance": "14.370",
+        "notes": "\"SB in CNS91; additional astrometric companion?; CNS91 \"\"SB\"\" not confirmed/refuted\""
+      },
+      {
+        "id": "N9 Aur",
+        "name": "Ross 987",
+        "distance": "14.450"
+      },
+      {
+        "id": "N7 Per",
+        "name": "Wolf 1323",
+        "distance": "14.480"
+      },
+      {
+        "id": "N19 Oph",
+        "name": "Ross 136",
+        "distance": "14.510"
+      },
+      {
+        "id": "N13 Tau",
+        "name": "Wolf 1278",
+        "distance": "14.550"
+      },
+      {
+        "id": "N22 Boo",
+        "name": "Asellus Primus",
+        "distance": "14.570",
+        "notes": "C in CNS69 not in CNS91; additional components; CNS69 component C not in CNS91; not confirmed/re"
+      },
+      {
+        "id": "N4 Vul",
+        "name": "Wolf 1346",
+        "distance": "14.580",
+        "notes": "\"CNS91 \"\"VAR\"\" not confirmed/refuted\""
+      },
+      {
+        "id": "N7 Gem",
+        "name": "Wolf 1421",
+        "distance": "14.600",
+        "notes": "SB2 in Mar87"
+      },
+      {
+        "id": "N33 UMa",
+        "name": "Talitha",
+        "distance": "14.630",
+        "notes": "CNS91 mentions similar motion to NS 0900+4146"
+      },
+      {
+        "id": "N8 Mon",
+        "name": "Ross 417",
+        "distance": "14.660"
+      },
+      {
+        "id": "N13 Cam",
+        "name": "Ross 370",
+        "distance": "14.760"
+      },
+      {
+        "id": "N3 Crv",
+        "name": "Alchiba",
+        "distance": "14.770"
+      },
+      {
+        "id": "N6 CMi",
+        "name": "Ross 880",
+        "distance": "14.780"
+      },
+      {
+        "id": "N27 Vir",
+        "name": "Wolf 433",
+        "distance": "14.810"
+      },
+      {
+        "id": "N9 Cyg",
+        "name": "Ross 188",
+        "distance": "14.900"
+      },
+      {
+        "id": "N9 Cep",
+        "name": "Alderamin",
+        "distance": "14.960"
+      },
+      {
+        "id": "N13 And",
+        "name": "Ross 5",
+        "distance": "14.970",
+        "notes": "\"CNS91 \"\"VAR\"\" refuted in Mar89\""
+      },
+      {
+        "id": "N17 Peg",
+        "name": "Wolf 1014",
+        "distance": "14.980"
+      },
+      {
+        "id": "N17 Cas",
+        "name": "Wolf 54",
+        "distance": "15.040"
+      },
+      {
+        "id": "N10 Cep",
+        "name": "Ross 226",
+        "distance": "15.220"
+      },
+      {
+        "id": "N10 Gem",
+        "name": "Castor",
+        "distance": "15.270"
+      },
+      {
+        "id": "N10 Gem B",
+        "name": "Castor B",
+        "distance": "15.270"
+      },
+      {
+        "id": "N10 Gem E",
+        "name": "Castor C",
+        "distance": "15.270",
+        "notes": "eclipsing binary primary"
+      },
+      {
+        "id": "N27 Her",
+        "name": "Ross 160",
+        "distance": "15.310"
+      },
+      {
+        "id": "N27 Eri",
+        "name": "Ross 584",
+        "distance": "15.360",
+        "notes": "\"\"\" \"\"\"\"close binary\"\"\"\" in YPC\"\"\""
+      },
+      {
+        "id": "N18 Psc",
+        "name": "Wolf 1516",
+        "distance": "15.410"
+      },
+      {
+        "id": "N9 Mon",
+        "name": "Ross 54",
+        "distance": "15.530"
+      },
+      {
+        "id": "N16 Leo",
+        "name": "Wolf 398",
+        "distance": "15.670"
+      },
+      {
+        "id": "N5 Vul",
+        "name": "Wolf 867",
+        "distance": "15.700"
+      },
+      {
+        "id": "N27 Dra",
+        "name": "Ross 434",
+        "distance": "15.720",
+        "notes": "astrometric companion? in CNS69"
+      },
+      {
+        "id": "N13 Cep",
+        "name": "Wolf 1084",
+        "distance": "15.870"
+      },
+      {
+        "id": "N11 CVn",
+        "name": "Ross 1026",
+        "distance": "15.950"
+      },
+      {
+        "id": "N32 Her",
+        "name": "Ross 640",
+        "distance": "15.950"
+      },
+      {
+        "id": "N9 Cap",
+        "name": "Ross 751",
+        "distance": "16.000",
+        "notes": "YPC companions refuted via 2 DSS epochs"
+      },
+      {
+        "id": "N29 Eri",
+        "name": "Ross 578",
+        "distance": "16.030"
+      },
+      {
+        "id": "N19 Peg",
+        "name": "Wolf 1225",
+        "distance": "16.080"
+      },
+      {
+        "id": "N12 CVn",
+        "name": "Ross 1008",
+        "distance": "16.130"
+      },
+      {
+        "id": "N18 Leo",
+        "name": "Ross 903",
+        "distance": "16.200"
+      },
+      {
+        "id": "N41 UMa",
+        "name": "Ross 107",
+        "distance": "16.230"
+      },
+      {
+        "id": "N19 Ori",
+        "name": "Wachmann's Flare Star",
+        "distance": "16.310"
+      },
+      {
+        "id": "N27 Boo",
+        "name": "Ross 992",
+        "distance": "16.310"
+      },
+      {
+        "id": "N24 Aqr",
+        "name": "Wolf 920",
+        "distance": "16.330"
+      },
+      {
+        "id": "N21 Peg",
+        "name": "Ross 265",
+        "distance": "16.360"
+      },
+      {
+        "id": "N23 Psc",
+        "name": "Wolf 1530",
+        "distance": "16.390"
+      },
+      {
+        "id": "N2 Sct",
+        "name": "Ross 720",
+        "distance": "16.400"
+      },
+      {
+        "id": "N30 Vir",
+        "name": "Wolf 485",
+        "distance": "16.420"
+      },
+      {
+        "id": "N30 Vir B",
+        "name": "Ross 476",
+        "distance": "16.420"
+      },
+      {
+        "id": "N19 Leo",
+        "name": "Ross 83",
+        "distance": "16.470"
+      },
+      {
+        "id": "N43 UMa",
+        "name": "Ross 110",
+        "distance": "16.500"
+      },
+      {
+        "id": "N31 Vir",
+        "name": "Wolf 457",
+        "distance": "16.580"
+      },
+      {
+        "id": "N20 Cas",
+        "name": "Ross 249",
+        "distance": "16.600"
+      },
+      {
+        "id": "N29 Dra",
+        "name": "Ross 689",
+        "distance": "16.610"
+      },
+      {
+        "id": "N21 Cas",
+        "name": "Caph",
+        "distance": "16.680",
+        "notes": "SB? in CNS91"
+      },
+      {
+        "id": "N10 Per",
+        "name": "Wolf 1325",
+        "distance": "16.850"
+      },
+      {
+        "id": "N10 Sco",
+        "name": "Ross 854",
+        "distance": "16.860"
+      },
+      {
+        "id": "N23 Hya",
+        "name": "Ross 439",
+        "distance": "16.860"
+      },
+      {
+        "id": "N11 Cnc",
+        "name": "Ross 622",
+        "distance": "16.950"
+      },
+      {
+        "id": "N31 Cet",
+        "name": "Ross 555",
+        "distance": "17.170"
+      },
+      {
+        "id": "N18 And",
+        "name": "Wolf 12",
+        "distance": "17.260"
+      },
+      {
+        "id": "N26 Psc",
+        "name": "Wolf 1051",
+        "distance": "17.280"
+      },
+      {
+        "id": "N14 Lib",
+        "name": "2MASS J15101685-0241078",
+        "distance": "17.390",
+        "notes": "I"
+      },
+      {
+        "id": "N27 Aqr",
+        "name": "Ross 279",
+        "distance": "17.420",
+        "notes": "CNS69 companion not in CNS91; not confirmed/refu"
+      },
+      {
+        "id": "N14 Cyg",
+        "name": "Wolf 926",
+        "distance": "17.450"
+      },
+      {
+        "id": "N10 Mon",
+        "name": "Ross 415",
+        "distance": "17.480"
+      },
+      {
+        "id": "N14 CVn",
+        "name": "Ross 1007",
+        "distance": "17.540"
+      },
+      {
+        "id": "N14 Gem",
+        "name": "Alzirr",
+        "distance": "17.550"
+      },
+      {
+        "id": "N22 Tau",
+        "name": "Ross 588",
+        "distance": "17.560"
+      },
+      {
+        "id": "N33 Dra",
+        "name": "Ross 1051",
+        "distance": "17.560"
+      },
+      {
+        "id": "N23 Ori",
+        "name": "Wolf 1450",
+        "distance": "17.610"
+      },
+      {
+        "id": "N33 Vir",
+        "name": "Wolf 427",
+        "distance": "17.630"
+      },
+      {
+        "id": "N4 Tri",
+        "name": "Ross 19",
+        "distance": "17.730"
+      },
+      {
+        "id": "N24 Leo",
+        "name": "Zosma",
+        "distance": "17.730"
+      },
+      {
+        "id": "N28 Oph",
+        "name": "Ross 529",
+        "distance": "17.750"
+      },
+      {
+        "id": "N11 Cap",
+        "name": "Ross 769",
+        "distance": "17.810"
+      },
+      {
+        "id": "N10 Com",
+        "name": "Diadem",
+        "distance": "17.920"
+      },
+      {
+        "id": "N29 Aqr",
+        "name": "Wolf 896",
+        "distance": "17.920"
+      },
+      {
+        "id": "N26 Leo",
+        "name": "Wolf 369",
+        "distance": "17.950"
+      },
+      {
+        "id": "N11 Per",
+        "name": "Ross 29",
+        "distance": "17.950"
+      },
+      {
+        "id": "N34 Dra",
+        "name": "Ross 690",
+        "distance": "17.950"
+      },
+      {
+        "id": "N12 Mon",
+        "name": "Ross 416",
+        "distance": "17.990"
+      },
+      {
+        "id": "N16 Gem",
+        "name": "Wasat",
+        "distance": "18.020"
+      },
+      {
+        "id": "N9 Ari",
+        "name": "Sharatan",
+        "distance": "18.230",
+        "notes": "SB 107 days in YPC"
+      },
+      {
+        "id": "N15 Cnc",
+        "name": "Ross 620",
+        "distance": "18.340"
+      },
+      {
+        "id": "N26 Cas",
+        "name": "Wolf 33",
+        "distance": "18.400"
+      },
+      {
+        "id": "N3 Sct",
+        "name": "Wolf 1466",
+        "distance": "18.480"
+      },
+      {
+        "id": "N27 Cen",
+        "name": "Menkent",
+        "distance": "18.670"
+      },
+      {
+        "id": "N38 Boo",
+        "name": "Ross 1041",
+        "distance": "18.690"
+      },
+      {
+        "id": "N37 Vir",
+        "name": "Rijl al Awwa",
+        "distance": "18.750",
+        "notes": "SB 358 days in YPC"
+      },
+      {
+        "id": "N14 Per",
+        "name": "Ross 21",
+        "distance": "19.010"
+      },
+      {
+        "id": "N25 Tau",
+        "name": "Wolf 219",
+        "distance": "19.010"
+      },
+      {
+        "id": "N35 Oph",
+        "name": "Ross 644",
+        "distance": "19.040"
+      },
+      {
+        "id": "N39 Vir",
+        "name": "Wolf 534",
+        "distance": "19.270"
+      },
+      {
+        "id": "N7 CrB",
+        "name": "Ross 806",
+        "distance": "19.270"
+      },
+      {
+        "id": "N48 Her",
+        "name": "Ross 812",
+        "distance": "19.280"
+      },
+      {
+        "id": "N19 Aql",
+        "name": "Wolf 865",
+        "distance": "19.330"
+      },
+      {
+        "id": "N27 Tau",
+        "name": "Ross 59",
+        "distance": "19.420"
+      },
+      {
+        "id": "N23 Gem",
+        "name": "Ross 878",
+        "distance": "19.470"
+      },
+      {
+        "id": "N4 Sge B",
+        "name": "Ross 734",
+        "distance": "19.500"
+      },
+      {
+        "id": "N19 Pup",
+        "name": "Ross 429",
+        "distance": "19.550"
+      },
+      {
+        "id": "N40 Dra",
+        "name": "Wolf 1409",
+        "distance": "19.610"
+      },
+      {
+        "id": "N5 Tri",
+        "name": "Atria",
+        "distance": "19.650",
+        "notes": "SB 1.8 days in YPC; additional components in YP"
+      },
+      {
+        "id": "N30 Peg",
+        "name": "Wolf 953",
+        "distance": "19.870"
+      },
+      {
+        "id": "N16 Per",
+        "name": "Ross 346",
+        "distance": "19.920"
+      },
+      {
+        "id": "N13 Ari",
+        "name": "Ross 791",
+        "distance": "20.000"
+      },
+      {
+        "id": "N5 Del",
+        "name": "Ross 257",
+        "distance": "20.010"
+      },
+      {
+        "id": "N31 Tau",
+        "name": "Aldebaran",
+        "distance": "20.020"
+      },
+      {
+        "id": "N31 Tau B",
+        "name": "Aldebaran B",
+        "distance": "20.020"
+      },
+      {
+        "id": "N17 CVn",
+        "name": "Ross 991",
+        "distance": "20.040"
+      },
+      {
+        "id": "N14 Ari",
+        "name": "Hamal",
+        "distance": "20.120"
+      },
+      {
+        "id": "N12 Crt B",
+        "name": "LP 793-34",
+        "distance": "20.150",
+        "notes": "Take plx from CPM companion"
+      },
+      {
+        "id": "N29 Leo",
+        "name": "Ross 84",
+        "distance": "20.240"
+      },
+      {
+        "id": "N38 Hya",
+        "name": "Wolf 623",
+        "distance": "20.470"
+      },
+      {
+        "id": "N5 Sge",
+        "name": "Wolf 873",
+        "distance": "20.540"
+      },
+      {
+        "id": "N45 Vir",
+        "name": "Wolf 1487",
+        "distance": "20.570"
+      },
+      {
+        "id": "N18 Ser",
+        "name": "Ross 512",
+        "distance": "20.620"
+      },
+      {
+        "id": "N45 Boo",
+        "name": "Ross 835",
+        "distance": "20.720",
+        "notes": "SIMBAD says it is binary (Hipparcos multiple flag = G)"
+      },
+      {
+        "id": "N16 Ari",
+        "name": "Wolf 87",
+        "distance": "20.730"
+      },
+      {
+        "id": "N23 Cnc",
+        "name": "Wolf 324",
+        "distance": "20.760"
+      },
+      {
+        "id": "N25 Gem",
+        "name": "Ross 60",
+        "distance": "21.010"
+      },
+      {
+        "id": "N32 Cas",
+        "name": "Ross 9",
+        "distance": "21.090"
+      },
+      {
+        "id": "N19 Ser",
+        "name": "Ross 142",
+        "distance": "21.250"
+      },
+      {
+        "id": "N50 Vir",
+        "name": "Ross 1044",
+        "distance": "21.280"
+      },
+      {
+        "id": "N17 Sgr",
+        "name": "Ross 727",
+        "distance": "21.370"
+      },
+      {
+        "id": "N51 Vir",
+        "name": "Syrma",
+        "distance": "21.400"
+      },
+      {
+        "id": "N24 Cyg",
+        "name": "Wolf 945",
+        "distance": "21.410"
+      },
+      {
+        "id": "N33 Leo",
+        "name": "Wolf 386",
+        "distance": "21.500"
+      },
+      {
+        "id": "N53 Vir",
+        "name": "Ross 847",
+        "distance": "21.650"
+      },
+      {
+        "id": "N53 Her",
+        "name": "Ross 709",
+        "distance": "21.780"
+      },
+      {
+        "id": "N51 Dra",
+        "name": "Dsiban",
+        "distance": "22.020"
+      },
+      {
+        "id": "N28 Cyg",
+        "name": "Gienah Cygni",
+        "distance": "22.060",
+        "notes": "\"SB in CNS91; CNS91 \"\"SB\"\" confirmed via YPC\""
+      },
+      {
+        "id": "N31 And",
+        "name": "Ross 322",
+        "distance": "22.170"
+      },
+      {
+        "id": "N41 Tau",
+        "name": "Wolf 1057",
+        "distance": "22.170"
+      },
+      {
+        "id": "N7 Tri",
+        "name": "Ross 17",
+        "distance": "22.220"
+      },
+      {
+        "id": "N32 Ori",
+        "name": "Ross 49",
+        "distance": "22.390"
+      },
+      {
+        "id": "N35 Leo",
+        "name": "Ross 89",
+        "distance": "22.390"
+      },
+      {
+        "id": "N24 Ser",
+        "name": "Unukalhai",
+        "distance": "22.430"
+      },
+      {
+        "id": "N31 Cyg",
+        "name": "Ross 765",
+        "distance": "22.460"
+      },
+      {
+        "id": "N57 Vir",
+        "name": "Heze",
+        "distance": "22.500"
+      },
+      {
+        "id": "N45 Tau",
+        "name": "Wolf 1322",
+        "distance": "22.830"
+      },
+      {
+        "id": "N58 Cet",
+        "name": "Wolf 1132",
+        "distance": "22.840"
+      },
+      {
+        "id": "N34 And",
+        "name": "Ross 680",
+        "distance": "22.900"
+      },
+      {
+        "id": "N8 CMa",
+        "name": "Ross 56",
+        "distance": "22.940"
+      },
+      {
+        "id": "N10 CrB",
+        "name": "Alphecca",
+        "distance": "22.940",
+        "notes": "eclipsing SB 17.36 days in YPC"
+      },
+      {
+        "id": "N72 UMa",
+        "name": "Ross 447",
+        "distance": "23.070"
+      },
+      {
+        "id": "N59 Vir",
+        "name": "Wolf 1060",
+        "distance": "23.110"
+      },
+      {
+        "id": "N20 Per",
+        "name": "Ross 364",
+        "distance": "23.120",
+        "notes": "2 HIP numbers; only 1 parallax"
+      },
+      {
+        "id": "N20 Per B",
+        "name": "Ross 365",
+        "distance": "23.120"
+      },
+      {
+        "id": "N11 Lac",
+        "name": "Ross 668",
+        "distance": "23.200",
+        "notes": "HIP number; no parallax; C optical in CNS91"
+      },
+      {
+        "id": "N61 Her",
+        "name": "Wolf 835",
+        "distance": "23.250"
+      },
+      {
+        "id": "N49 Oph",
+        "name": "Wolf 1471",
+        "distance": "23.310"
+      },
+      {
+        "id": "N35 Cyg",
+        "name": "Ross 201",
+        "distance": "23.470"
+      },
+      {
+        "id": "N61 Vir",
+        "name": "Wolf 490",
+        "distance": "23.490"
+      },
+      {
+        "id": "N20 Sgr",
+        "name": "Kaus Borealis",
+        "distance": "23.500"
+      },
+      {
+        "id": "N50 Aqr",
+        "name": "Wolf 1336",
+        "distance": "23.580"
+      },
+      {
+        "id": "N21 Lib",
+        "name": "Zubenelgenubi",
+        "distance": "23.620",
+        "notes": "\"YPC \"\"occultation double\"\" not confirmed/refuted\""
+      },
+      {
+        "id": "N39 Leo",
+        "name": "Regulus",
+        "distance": "23.750"
+      },
+      {
+        "id": "N22 Phe",
+        "name": "Ankaa",
+        "distance": "23.750",
+        "notes": "SB 3849 days in YPC"
+      },
+      {
+        "id": "N27 Cep",
+        "name": "Wolf 1106",
+        "distance": "23.920"
+      },
+      {
+        "id": "N28 Cep",
+        "name": "Wolf 1080",
+        "distance": "23.940"
+      },
+      {
+        "id": "N54 Hya",
+        "name": "Ross 687",
+        "distance": "24.030"
+      },
+      {
+        "id": "N73 Her",
+        "name": "Sarin",
+        "distance": "24.080"
+      },
+      {
+        "id": "N41 Leo",
+        "name": "Wolf 370",
+        "distance": "24.130"
+      },
+      {
+        "id": "N40 And",
+        "name": "Ross 244",
+        "distance": "24.230"
+      },
+      {
+        "id": "N81 UMa",
+        "name": "Merak",
+        "distance": "24.330"
+      },
+      {
+        "id": "N82 UMa",
+        "name": "Ross 492",
+        "distance": "24.330"
+      },
+      {
+        "id": "N84 UMa",
+        "name": "Mizar",
+        "distance": "24.440",
+        "notes": "Mizar = 1323+5455 A. Hip2 puts Mizar/Alcor just outside 25 pc."
+      },
+      {
+        "id": "N84 UMa E",
+        "name": "Alcor A",
+        "distance": "24.440",
+        "notes": "\"Alcor = 1323+5455 E: sep 708\"\" @ 70d from A (YPC95)\""
+      },
+      {
+        "id": "N84 UMa F",
+        "name": "Alcor B",
+        "distance": "24.440",
+        "notes": "\"Alcor B detected 2009. Sep 1\"\".11 (28 AU)\""
+      },
+      {
+        "id": "N12 Com",
+        "name": "Wolf 408",
+        "distance": "24.490"
+      },
+      {
+        "id": "N51 Oph",
+        "name": "Ross 133",
+        "distance": "24.510"
+      },
+      {
+        "id": "N7 Sge",
+        "name": "Wolf 871",
+        "distance": "24.510"
+      },
+      {
+        "id": "N53 Peg",
+        "name": "Ross 778",
+        "distance": "24.570"
+      },
+      {
+        "id": "N35 Gem",
+        "name": "Ross 62",
+        "distance": "24.630"
+      },
+      {
+        "id": "N23 Sgr",
+        "name": "Ross 162",
+        "distance": "24.630",
+        "notes": "HIP plx shows > 25 pc"
+      },
+      {
+        "id": "N52 Oph",
+        "name": "Sabik",
+        "distance": "24.760",
+        "notes": "CNS91 component C not confirmed/refuted"
+      },
+      {
+        "id": "N89 UMa",
+        "name": "Megrez",
+        "distance": "24.910"
+      },
+      {
+        "id": "N74 Cet",
+        "name": "Kaffaljidhma",
+        "distance": "24.930"
+      },
+      {
+        "id": "N38 Gem B",
+        "name": "Ross 419",
+        "distance": "24.980",
+        "notes": "Record added from MOD1A.000620.update"
+      },
+      {
+        "id": "N53 Eri",
+        "name": "68 Eri",
+        "distance": "24.990"
+      },
+      {
+        "id": "N4 Sct",
+        "name": "Wolf 1462",
+        "distance": "25.000",
+        "notes": "NULL"
+      }
+    ]
+  }
+}
