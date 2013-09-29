@@ -4,6 +4,12 @@ require_once('init.php');
 
 include 'templates/head.html';
 
+$_OUTPUT['random'] = rand(1941,2010).'-'.str_pad(rand(1,12), 2, '0', STR_PAD_LEFT).'-'.str_pad(rand(1,28), 2, '0', STR_PAD_LEFT);
+
+if (isset($_GET['date'])):
+    $_OUTPUT['date'] = $_GET['date'];
+endif;
+
 echo $twig -> render(file_get_contents('templates/form.html'), $_OUTPUT);
 
 if (isset($_GET['date'])):
