@@ -1,40 +1,30 @@
-<?php require_once('init.php'); ?>
-<!DOCTYPE html>
-<html class="no-js">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Radio Free Earth</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
-    </head>
-    <body>
-        <div class="block">
-          <form action="?" method="get">
-            <label for="date">Enter a date</label>
-            <input type="date" id="date" name="date"<?php if(isset($_GET['date'])): echo ' value="'.$_GET['date'].'"'; endif; ?>/>
-            <button type="submit">Submit</button>
-          </form>
 <?php
+
+require_once('init.php');
+
+include 'templates/head.html';
+
+echo $twig -> render(file_get_contents('templates/form.html'), $_OUTPUT);
 
 if (isset($_GET['date'])):
 
     // Convert the input into a timestamp
     $timestamp = strtotime($_GET['date']);
+    $_OUTPUT['date'] = date('l, F jS, Y', $timestamp);
 
     //Loop through the songs
-    $song = array();
+    $_OUTPUT['song'] = array();
     foreach($_DATA['songs'] as $loopsong):
         //Convert the date to a timestamp
         $songdate = strtotime($loopsong['date']);
         if ($songdate < $timestamp):
-            $song = $loopsong;
+            $_OUTPUT['song'] = $loopsong;
             break;
         endif;
     endforeach;
 
-    if (empty($song)):
-        echo "no songs for that date.";
+    if (empty($_OUTPUT['song'])):
+        echo $twig -> render(file_get_contents('templates/nosong.html'), $_OUTPUT);
     else:
 
         // Grab the current time as a timestamp
@@ -47,29 +37,23 @@ if (isset($_GET['date'])):
         $parsecs = $lightyears*0.306594845;
 
         //Loop through the stars
-        $star = array();
+        $_OUTPUT['star'] = array();
         foreach ($_DATA['stars'] as $loopstar):
-            if ($loopstar['distance'] > $parsecs):
-                $star = $loopstar;
+            if (floatval($parsecs) > floatval($loopstar['distance'])):
+                $_OUTPUT['star'] = $loopstar;
                 break;
             endif;
         endforeach;
 
-        if (empty($star)):
+        if (empty($_OUTPUT['star'])):
             //Nothing matched.
-            echo 'Nothing matched.';
+            echo $twig -> render(file_get_contents('templates/nostar.html'), $_OUTPUT);
         else:
-?>
-        <div class="block">
-          <p>
-            On <?php echo date('l, F jS, Y', $timestamp); ?>, <?php echo strip_tags($song['title']); ?> by <?php echo strip_tags($song['artist']); ?> was Earth's #1 song. Its magic has just reached <?php echo $star['name']; ?>.
-          </p>  
-        </div>
-<?php
+            echo $twig -> render(file_get_contents('templates/result.html'), $_OUTPUT);
         endif;
     endif;
 endif;
 
+include 'templates/foot.html';
+
 ?>
-    </body>
-</html>
