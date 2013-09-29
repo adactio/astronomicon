@@ -6,9 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
 var E = {
     init: function(){
         //globals
-        el = document.getElementById('result'),
-        song = el.getAttribute('data-song'),
+        el = document.getElementById('result');
+        song = el.getAttribute('data-song');
         player = document.getElementById('player');
+
+        //hide player
+        player.style.display="none"
 
         //init rdio
         E.rdio();
@@ -30,15 +33,14 @@ var E = {
                 success: function(response) {
                     if (response.result.number_results !== 0){
 
-                    var src = response.result.results[0].key;
+                        var src = response.result.results[0].key;
 
-                    console.log(src);
-
-                    E.play(src);
+                        player.style.display="block"
+        
+                        E.play(src);
 
                     } else {
-                        console.log(response);
-                        player.style.display="none"
+                        
                         return false;
                     }
                 },
@@ -51,9 +53,13 @@ var E = {
     },
 
     play: function(src){
-        console.log('from play', src);
-      
-        R.player.play({source: src});        
+        var el = document.getElementById('control-play');
+        el.onclick = function(e) {
+            R.player.play({source: src});
+            e.preventDefault();
+        };
+
+             
     }
 }
 
