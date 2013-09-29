@@ -5,6 +5,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #000;
   color: #fff;
+  font-weight: 300;
 }
 
 ul {
@@ -15,10 +16,11 @@ ul {
 
 a { 
   text-decoration: none;
-  font-weight: bold;
   color: #369; 
-
 }
+
+b,
+h1 { font-weight: 300; }
 
 .randomiser button {
   font-size: 300%;
@@ -28,7 +30,6 @@ a {
   border-radius: 0.2em;
   cursor: pointer;
   opacity: .8;
-  font-weight: bold;
   background-color: #369;
   color: #fff;
 }
