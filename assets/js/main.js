@@ -53,9 +53,14 @@ var E = {
     },
 
     play: function(src){
-        var el = document.getElementById('control-play');
+        var el = document.getElementById('control-play'),
+            indicator = document.getElementById('indicator');
+
         el.onclick = function(e) {
             R.player.play({source: src});
+            el.style.display='none';
+            indicator.style.display='block';
+            indicator.className += ' is-playing';
             e.preventDefault();
         };
     }
