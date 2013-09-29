@@ -1,5 +1,7 @@
 		<div class="block">
-          <p>
+          <p id="result" data-song="{{ song.title|striptags }} {{ song.artist|striptags }}">
             On {{ date }}, {{ song.title|striptags }} by {{ song.artist|striptags }} was Earth's #1 song. Its magic has just reached {{ star.name }}.
           </p>  
-        </div>
+    </div>
+    <script src="//www.rdio.com/api/api.js?client_id=OQTUq_j3HiidTGXMl6xkOw"></script>
+    <script src="../assets/js/main.js"></script>
