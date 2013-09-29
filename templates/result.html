@@ -22,7 +22,7 @@
 
         <div class="trivia">
           <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}, {{ star.distance }} parsecs away.</p>
-          <p>{{ song.title|striptags|raw|replace({'"':''}) }} has reached {{ starcount }} other stars.</p>
+          <p><cite>{{ song.title|striptags|raw|replace({'"':''}) }}</cite> has reached {{ starcount }} other stars.</p>
         </div><!-- /.trivia -->
 
     </div><!-- /.block -->
