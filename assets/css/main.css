@@ -2,13 +2,21 @@ body {
   text-align: center;
   margin: 0 auto;
   padding: 5% 10%;
-  font-family: sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+a { 
+  text-decoration: none;
+  font-weight: bold;
+  color: #369; 
 }
 
 .randomiser button {
@@ -19,7 +27,7 @@ ul {
   border-radius: 0.2em;
   cursor: pointer;
   opacity: .8;
-  font-weight: 900;
+  font-weight: bold;
 }
 
   .randomiser button:hover,
@@ -35,6 +43,12 @@ ul {
     padding: 2.5% 0;
     display: block; 
   }
-
+  
+  .message .artist { padding-top: 0; }
   .message .song { font-size: 200%; }
   .message .tada { font-size: 400%; }
+
+.a-play {
+  font-size: 300%;
+  background-color: 
+}
