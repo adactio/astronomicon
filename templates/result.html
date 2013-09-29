@@ -1,24 +1,31 @@
 		<div class="block">
+
+        <div class="message">
           <p id="result" data-song="{{ song.title|striptags }} {{ song.artist|striptags }}">
             On {{ date }}, {{ song.title|striptags }} by {{ song.artist|striptags }} was Earth's #1 song. Its {{ random(['musical magic', 'grooviness', 'magical melody']) }} has just reached {{ star.name }}.
           </p>
+        </div><!-- /.message -->
+
+        <div class="player" role="application" id="player">
+          <span class="title"></span>
+          <span class="artist"></span>
+          <figure id="data-artwork" data-src=""></figure>
+
+          <ul id="items-controls" class="items-inline-controls">
+              <li>
+                  <a href="#" id="control-play">
+                      <span>Play</span>
+                  </a>
+              </li>
+          </ul>
+        </div><!-- /.player -->
+
+        <div class="trivia">
           <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}, {{ star.distance }} parsecs away.</p>
           <p>{{ song.title|striptags }} has reached {{ starcount }} other stars.</p>
-    </div>
+        </div><!-- /.trivia -->
 
-    <div role="application" id="player">
-      <span class="title"></span>
-      <span class="artist"></span>
-      <figure id="data-artwork" data-src=""></figure>
-
-      <ul id="items-controls" class="items-inline-controls">
-          <li>
-              <a href="#" id="control-play">
-                  <span>Play</span>
-              </a>
-          </li>
-      </ul>
-    </div>
+    </div><!-- /.block -->
     
     <script src="//www.rdio.com/api/api.js?client_id=OQTUq_j3HiidTGXMl6xkOw"></script>
     <script src="../assets/js/main.js"></script>
