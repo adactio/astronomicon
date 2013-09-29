@@ -20,6 +20,7 @@ if (isset($_GET['date'])):
 
     //Loop through the songs
     $_OUTPUT['song'] = array();
+    $_OUTPUT['songcount'] = 0;
     foreach($_DATA['songs'] as $loopsong):
         //Convert the date to a timestamp
         $songdate = strtotime($loopsong['date']);
@@ -27,6 +28,7 @@ if (isset($_GET['date'])):
             $_OUTPUT['song'] = $loopsong;
             break;
         endif;
+        $_OUTPUT['songcount']++;
     endforeach;
 
     if (empty($_OUTPUT['song'])):
