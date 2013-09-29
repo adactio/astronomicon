@@ -2,7 +2,7 @@
 
         <div class="message">
           <p id="result" data-song="{{ song.title|striptags }} {{ song.artist|striptags }}">
-            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':''}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth's #1 song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'unstoppable beat has']) }} just reached <b class="tada">{{ star.name }}</b>
+            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':''}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth's number one song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'unstoppable beat has']) }} just reached <b class="tada">{{ star.name }}</b>
           </p>
         </div><!-- /.message -->
 
