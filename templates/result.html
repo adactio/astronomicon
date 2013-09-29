@@ -2,7 +2,7 @@
 
         <div class="message">
           <p id="result" data-song="{{ song.title|striptags }} {{ song.artist|striptags }}">
-            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':''}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth's number one song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'mad phat beats have', 'chill groove has', 'unstoppable beat has']) }} just reached <b class="tada">{{ star.name }}</b>
+            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':''}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth’s number one song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'mad phat beats have', 'chill groove has', 'unstoppable beat has']) }} just reached <b class="tada">{{ star.name }}</b>
           </p>
         </div><!-- /.message -->
 
@@ -21,8 +21,8 @@
         </div><!-- /.player -->
 
         <div class="trivia">
-          <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}, {{ star.distance }} parsecs away.</p>
-          <p>{{ song.title|striptags }} has reached {{ starcount }} other stars.</p>
+          <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}, which is {{ star.distance }} parsecs away.</p>
+          <p><cite>{{ song.title|striptags|raw|replace({'"':''}) }}</cite> has reached {{ starcount }} other stars.</p>
         </div><!-- /.trivia -->
 
     </div><!-- /.block -->
