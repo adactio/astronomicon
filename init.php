@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set('Europe/Dublin');
+
 require_once('lib/Twig/Autoloader.php');
 Twig_Autoloader::register();
 $loader = new Twig_Loader_String();
