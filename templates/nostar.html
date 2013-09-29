@@ -1,7 +1,7 @@
 		<div class="block">
 	        <div class="message">
 	          <p>
-	            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':''}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth’s number one song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'mad phat beats have', 'chill groove has', 'unstoppable beat has']) }}n’t yet reached a star.
+	            On <b class="date">{{ date }}</b>, <b class="song">{{ song.title|striptags|raw|replace({'"':'', '\'':'’'}) }}</b> <span class="artist">by <b>{{ song.artist|striptags|raw }}</b></span> was Earth’s number one song. Its {{ random(['musical magic has', 'grooviness has', 'magical melody has', 'dulcet tones have', 'cultural influence has', 'mad phat beats have', 'chill groove has', 'unstoppable beat has']) }}n’t yet reached a star.
 	          </p>
 	        </div><!-- /.message -->
         </div><!-- /.block -->
