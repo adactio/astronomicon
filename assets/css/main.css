@@ -68,3 +68,5 @@ a {
     .a-play:focus {
       opacity: 1;
     }
+
+.is-playing {}
