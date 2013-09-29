@@ -1,7 +1,13 @@
         <div class="block">
           <form action="?" method="get">
+          	<label for="random">Spin the wheel</label>
+          	<input type="hidden" name="date" value="{{ random }}" />
+          	<button type="submit">Hit me!</button>
+          </form>
+          <p>Or…</p>
+          <form action="?" method="get">
             <label for="date">Enter a date</label>
-            <input type="date" id="date" name="date" />
-            <button type="submit">Submit</button>
+            <input type="date" id="date" name="date" value="{{ date }}" />
+            <button type="submit">Go!</button>
           </form>
         </div>

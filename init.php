@@ -11,7 +11,7 @@ $_DATA = array();
 
 $cosmos = json_decode(file_get_contents('src/cosmos.json'), true);
 
-$_DATA['stars'] = $cosmos['cosmos']['star'];
+$_DATA['stars'] = array_reverse($cosmos['cosmos']['star']);
 
 $songs = json_decode(file_get_contents('src/songs.json'), true);
 
