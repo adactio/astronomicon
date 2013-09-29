@@ -17,6 +17,7 @@ a {
   text-decoration: none;
   font-weight: bold;
   color: #369; 
+
 }
 
 .randomiser button {
@@ -28,6 +29,8 @@ a {
   cursor: pointer;
   opacity: .8;
   font-weight: bold;
+  background-color: #369;
+  color: #fff;
 }
 
   .randomiser button:hover,
@@ -46,9 +49,22 @@ a {
   
   .message .artist { padding-top: 0; }
   .message .song { font-size: 200%; }
-  .message .tada { font-size: 400%; }
+  .message .tada { 
+    padding-bottom: 0;
+    font-size: 400%; 
+  }
 
 .a-play {
-  font-size: 300%;
-  background-color: 
+  font-size: 200%;
+  background-color: #369;
+  color: #fff;
+  border-radius: 0.2em;
+  padding: 0.25em 0.5em;
+  margin-bottom: 2.5%;
+  display: inline-block;
+  opacity: .8;
 }
+    .a-play:hover,
+    .a-play:focus {
+      opacity: 1;
+    }
