@@ -54,6 +54,17 @@ a {
     font-size: 400%; 
   }
 
+/*.player {
+  position: relative;
+}
+
+.player .a-play,
+.player .indicator {
+  position: absolute;
+  top: 0;
+  left: 50%;
+}*/
+
 .a-play {
   font-size: 200%;
   background-color: #369;
@@ -70,8 +81,30 @@ a {
     }
 
 .indicator { 
-  display: none; 
-  margin: 0 auto;
+  margin: 0 auto 1em;
+  display: block;
+}
+
+.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.is-hidden-fancy {
+  opacity: 0;
+  visibility: hidden;
+  transition: 3s linear opacity;
+}
+
+.is-shown {
+  opacity: 1;
+  visibility: visible;
+}
+
+.is-shown-fancy {
+  opacity: 1;
+  visibility: visible;
+  transition: 3s linear opacity;
 }
 
 .is-playing {

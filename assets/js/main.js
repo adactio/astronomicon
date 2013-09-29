@@ -10,9 +10,6 @@ var E = {
         song = el.getAttribute('data-song');
         player = document.getElementById('player');
 
-        //hide player
-        player.style.display="none"
-
         //init rdio
         E.rdio();
     },
@@ -35,7 +32,7 @@ var E = {
 
                         var src = response.result.results[0].key;
 
-                        player.style.display="block"
+                        player.className += ' is-shown'
         
                         E.play(src);
 
@@ -55,12 +52,18 @@ var E = {
     play: function(src){
         var el = document.getElementById('control-play'),
             indicator = document.getElementById('indicator');
+        
+        el.className += ' is-shown';
 
         el.onclick = function(e) {
             R.player.play({source: src});
-            el.style.display='none';
-            indicator.style.display='block';
+            //el.className += ' is-hidden';
+            el.style.display = "none";
+            indicator.className += ' is-shown-fancy';
             indicator.className += ' is-playing';
+            var removeclass = 'is-shown';
+            var reg = new RegExp('(\\s|^)' + removeclass + '(\\s|$)');
+            el.className = el.className.replace(reg, ' ');
             e.preventDefault();
         };
     }
