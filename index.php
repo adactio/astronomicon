@@ -1,6 +1,21 @@
+<?php require_once('init.php'); ?>
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Radio Free Earth</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <div class="block">
+          <form action="?" method="get">
+            <label for="date">Enter a date</label>
+            <input type="date" id="date" name="date"<?php if(isset($_GET['date'])): echo ' value="'.$_GET['date'].'"'; endif; ?>/>
+            <button type="submit">Submit</button>
+          </form>
 <?php
-
-require_once('init.php');
 
 if (isset($_GET['date'])):
 
@@ -20,37 +35,41 @@ if (isset($_GET['date'])):
 
     if (empty($song)):
         echo "no songs for that date.";
-        exit;
-    endif;
+    else:
 
-    // Grab the current time as a timestamp
-    $now = time();
-    // Calculate the difference between then and now (in seconds)
-    $elapsed = $now - $timestamp;
-    // Convert the elapsed time into years
-    $lightyears = $elapsed/60/60/24/365;
-    // Calculate the distance in parsecs
-    $parsecs = $lightyears*0.306594845;
+        // Grab the current time as a timestamp
+        $now = time();
+        // Calculate the difference between then and now (in seconds)
+        $elapsed = $now - $timestamp;
+        // Convert the elapsed time into years
+        $lightyears = $elapsed/60/60/24/365;
+        // Calculate the distance in parsecs
+        $parsecs = $lightyears*0.306594845;
 
-    //Loop through the stars
-    $star = array();
-    foreach ($_DATA['stars'] as $loopstar):
-        if ($loopstar['distance'] > $parsecs):
-            $star = $loopstar;
-            break;
+        //Loop through the stars
+        $star = array();
+        foreach ($_DATA['stars'] as $loopstar):
+            if ($loopstar['distance'] > $parsecs):
+                $star = $loopstar;
+                break;
+            endif;
+        endforeach;
+
+        if (empty($star)):
+            //Nothing matched.
+            echo 'Nothing matched.';
+        else:
+?>
+        <div class="block">
+          <p>
+            On <?php echo date('l, F jS, Y', $timestamp); ?>, <?php echo strip_tags($song['title']); ?> by <?php echo strip_tags($song['artist']); ?> was Earth's #1 song. Its magic has just reached <?php echo $star['name']; ?>.
+          </p>  
+        </div>
+<?php
         endif;
-    endforeach;
-
-    if (empty($star)):
-        //Nothing matched.
-        echo 'Nothing matched.';
-        exit;
     endif;
-
-    echo $song['title'];
-    echo $song['artist'];
-    echo $star['name'];
-
 endif;
 
 ?>
+    </body>
+</html>
