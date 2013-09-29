@@ -2,7 +2,8 @@
           <p id="result" data-song="{{ song.title|striptags }} {{ song.artist|striptags }}">
             On {{ date }}, {{ song.title|striptags }} by {{ song.artist|striptags }} was Earth's #1 song. Its {{ random(['musical magic', 'grooviness', 'magical melody']) }} has just reached {{ star.name }}.
           </p>
-          <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}.</p>
+          <p>{{ songcount }} number one hits from planet Earth have reached {{ star.name }}, {{ star.distance }} parsecs away.</p>
+          <p>{{ song.title|striptags }} has reached {{ starcount }} other stars.</p>
     </div>
 
     <div role="application" id="player">
